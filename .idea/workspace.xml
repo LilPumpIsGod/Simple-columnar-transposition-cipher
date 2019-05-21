@@ -11,7 +11,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Course_Work_471_2$cipher.coverage" NAME="cipher Coverage Results" MODIFIED="1554156212704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
     <SUITE FILE_PATH="coverage/Course_Work_471_2$setup.coverage" NAME="setup Coverage Results" MODIFIED="1552519152934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
-    <SUITE FILE_PATH="coverage/Simple_columnar_transposition_cipher$cipher.coverage" NAME="cipher Coverage Results" MODIFIED="1556141016804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+    <SUITE FILE_PATH="coverage/Simple_columnar_transposition_cipher$cipher.coverage" NAME="cipher Coverage Results" MODIFIED="1558473348620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Course_Work_471.2" />
@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/Include/cipher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="104" column="25" selection-start-line="104" selection-start-column="25" selection-end-line="104" selection-end-column="25" />
+            <state relative-caret-position="223">
+              <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -42,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Include/startWindow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -60,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Include/aboutDev.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="204">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -101,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,7 +124,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,11 +232,12 @@
       <workItem from="1554200047995" duration="582000" />
       <workItem from="1554332835364" duration="1352000" />
       <workItem from="1556140935602" duration="350000" />
+      <workItem from="1558473217083" duration="410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76299000" />
+    <option name="totallyTimeSpent" value="76709000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,13 +250,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496875" visible="true" weight="0.23600605" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496875" visible="true" weight="0.2397882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.503125" side_tool="true" weight="0.16483517" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2618658" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2618658" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -330,10 +332,27 @@
     <entry file="file://$PROJECT_DIR$/venv/Include/savedFile.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/cipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/design.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="1" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/startWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -346,25 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/aboutDev.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/startWindow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/cipher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="104" column="25" selection-start-line="104" selection-start-column="25" selection-end-line="104" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
